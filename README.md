@@ -1,6 +1,6 @@
 # wheatherapp
 
-A new Flutter project.
+A mobile application that shows the temperature,pressure,humidity,cloudcover of places.
 
 ## Getting Started
 
