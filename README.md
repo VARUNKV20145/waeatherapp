@@ -1,6 +1,6 @@
 # wheatherapp
 
-A mobile application that shows the temperature,pressure,humidity,cloudcover of places.
+A mobile application that shows the temperature,pressure,humidity and cloudcover of place that the user is searched.
 
 ## Getting Started
 
